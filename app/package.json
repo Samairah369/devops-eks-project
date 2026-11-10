@@ -1,0 +1,12 @@
+{
+  "name": "devops-sample-app",
+  "version": "1.0.0",
+  "description": "Production ready web app for EKS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
